@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&family=Padauk:wght@400;700&display=swap');
+@import "node_modules/bootstrap-icons";
+@import "node_modules/@fortawesome/fontawesome-free/css/all.min.css";
+
+$font-family-sans-serif : 'Montserrat', 'Padauk', sans-serif;
+
+$primary : #238908;
+
+$nav-link-padding-x : 1.5rem !important ;
+@import "node_modules/bootstrap/scss/bootstrap";
+
+.min-vh-80{
+    min-height: 80vh;
+}
